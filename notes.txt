@@ -1,0 +1,3 @@
+flex: number of segments to take
+justifyContent: items on main axis (x)
+alignItems: items on cross axis (y)
